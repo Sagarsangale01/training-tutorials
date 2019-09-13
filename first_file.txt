@@ -1,0 +1,7 @@
+its only test file for initalizing git commends.
+like git clone, 
+git add .
+git status
+git commit -m "Commit message name"
+git push
+etc.
